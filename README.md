@@ -6,7 +6,7 @@ This dashboard integrates patient, staff, inventory, financial, and vendor data 
 
 The objective of this project is to demonstrate practical business intelligence skills by designing a professional dashboard that supports data-driven healthcare management.
 
-## 🚀 Highlights
+##  📈 Highlights
 
 -  Executive Dashboard Design
 -  Interactive KPIs & Slicers
