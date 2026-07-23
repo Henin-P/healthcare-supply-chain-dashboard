@@ -36,7 +36,7 @@ The objective of this project is to demonstrate practical business intelligence 
 - DAX
 - Excel / CSV
 
-## 📷 Dashboard 
+## Dashboard 
 
 > *(<img width="787" height="445" alt="Image_dashboard_overview png" src="https://github.com/user-attachments/assets/8f1f4b2e-2aed-4e7a-8f3a-1a1379e58b03" />)*
 
